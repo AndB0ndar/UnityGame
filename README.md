@@ -9,7 +9,8 @@ There are various obstacles and enemies on the player's path, such as aircraft d
 The player must use all his skills and weapons to avoid dangers and destroy enemies.
 
 ## Gameplay
-The player controls a car that moves along the road in 2.5D style --- the movement takes place in two dimensions with perspective and visual effects of three-dimensional space. The main goal is to get to the finish line the fastest, avoiding bombs
+
+The player controls a car that moves along the road in 2.5D style - the movement takes place in two dimensions with perspective and visual effects of three-dimensional space. The main goal is to get to the finish line the fastest, avoiding bombs
 and destroying aircraft. 
 
 ## Main features
@@ -21,4 +22,5 @@ and destroying aircraft.
 - Each game round is played during the game to track the fastest player to determine the winner.
 
 ## Visual style
+
 The game is made in the 2.5D style with an emphasis on detailed car and aircraft models.
